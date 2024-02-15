@@ -31,5 +31,5 @@ Clicl ->   https://todolist-app-jade.vercel.app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mahendarvarma/Todolist-app.git
+git clone https://github.com/sandeepuppula/Todolist.git
 
